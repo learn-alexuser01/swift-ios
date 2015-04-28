@@ -8,5 +8,5 @@ a course curriculum covering the best practices, the golden path, the way TWG as
 
 ## Swift Language Reference
 
-https://itunes.apple.com/ca/book/swift-programming-language/id881256329
+[The Swift Programming Language by Apple Inc.](https://itunes.apple.com/ca/book/swift-programming-language/id881256329)
 
